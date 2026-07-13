@@ -1,52 +1,71 @@
-# Olá! Eu sou Pedro Nascimento 👋
+# Olá! 👋 Eu sou Pedro Nascimento
 
-## Sobre mim
+### Data Analyst | SQL | Power BI | Banco de Dados | Python
 
-Sou estudante de Gestão de Tecnologia da Informação e Desenvolvimento de Software.
+Sou estudante de **Gestão de Tecnologia da Informação** e **Desenvolvimento de Software**, apaixonado por transformar dados em informação para apoiar decisões.
 
-Tenho interesse em:
+Atualmente estudo e desenvolvo projetos envolvendo:
 
-- 📊 Análise de Dados
-- 🗄 Banco de Dados
-- 📈 Business Intelligence
-- 💻 SQL
-- 📉 Power BI
-- 📚 Excel
-- 🐍 Python
-
-Meu objetivo é atuar na área de Dados, desenvolvendo soluções que auxiliem empresas na tomada de decisão através da análise de informações.
+- 📊 Business Intelligence
+- 🗄 Banco de Dados Relacionais
+- 📈 Dashboards em Power BI
+- 🐍 Python para Análise de Dados
+- 📉 Excel e Power Query
+- 💾 SQL e MySQL
 
 ---
 
-## Tecnologias
+# 🚀 Tecnologias
 
 - SQL
 - MySQL
 - Power BI
 - Excel
 - Power Query
+- Python
 - Git
 - GitHub
-- Python (em aprendizado)
 
 ---
 
-## Projetos
+# 📂 Projetos
 
-Em breve você encontrará aqui projetos envolvendo:
+Em breve estarão disponíveis estudos de caso envolvendo:
 
-- Dashboards em Power BI
-- Modelagem de Banco de Dados
+- Dashboard Comercial
+- Banco de Dados MySQL
 - SQL Avançado
-- Estudos de Caso
-- Automação de Relatórios
-- Análise de Estoque
 - Business Intelligence
+- Análise de Estoque
+- Modelagem de Dados
+- Automação de Relatórios
 
 ---
 
-## Contato
+# 📚 Atualmente estudando
 
-📧 Seu e-mail: opedronascimento@outlook.com
+- Power BI
+- DAX
+- SQL Avançado
+- Python
+- Modelagem de Dados
+- Git
 
-💼 LinkedIn: https://www.linkedin.com/in/pedro-sousa-nascimento/
+---
+
+# 🎯 Objetivo
+
+Conquistar oportunidades nas áreas de:
+
+- Análise de Dados
+- Business Intelligence
+- Banco de Dados
+- Análise de Sistemas
+
+---
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/pedro-sousa-nascimento/)
+
+Email: opedronascimento@outlook.com
