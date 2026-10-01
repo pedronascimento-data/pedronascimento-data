@@ -1,71 +1,59 @@
-# Olá! 👋 Eu sou Pedro Nascimento
+# Pedro Nascimento
 
-### Data Analyst | SQL | Power BI | Banco de Dados | Python
+**Dados & Business Intelligence | SQL • Power BI • MySQL • Python | Sistemas & Java**
 
-Sou estudante de **Gestão de Tecnologia da Informação** e **Desenvolvimento de Software**, apaixonado por transformar dados em informação para apoiar decisões.
+Estudante de **Gestão de Tecnologia da Informação** e **Desenvolvimento de Software**, construindo um portfólio voltado à transformação de necessidades de negócio em soluções de dados, relatórios e sistemas.
 
-Atualmente estudo e desenvolvo projetos envolvendo:
+Meu foco principal está em **Análise de Dados e BI**, com base complementar em **banco de dados, desenvolvimento de software e operações de TI**.
 
-- 📊 Business Intelligence
-- 🗄 Banco de Dados Relacionais
-- 📈 Dashboards em Power BI
-- 🐍 Python para Análise de Dados
-- 📉 Excel e Power Query
-- 💾 SQL e MySQL
+## Áreas de interesse
 
----
+- Análise de Dados e Business Intelligence
+- SQL, bancos de dados e modelagem
+- Desenvolvimento de Sistemas / Java Júnior
+- Análise de Sistemas e suporte a operações de TI
 
-# 🚀 Tecnologias
+## Stack
 
-- SQL
-- MySQL
-- Power BI
-- Excel
-- Power Query
-- Python
-- Git
-- GitHub
+| Área | Tecnologias |
+|---|---|
+| **BI & Analytics** | Power BI, DAX, Power Query, Excel |
+| **Dados** | SQL, MySQL, modelagem relacional e dimensional |
+| **Programação** | Python, Java, orientação a objetos |
+| **Ferramentas** | Git, GitHub, MySQL Workbench, NetBeans |
+| **Documentação** | Markdown, requisitos, regras de negócio e documentação técnica |
 
----
+## Projetos em destaque
 
-# 📂 Projetos
+### [Atlas Distribuidora Analytics](https://github.com/pedronascimento-data/atlas-distribuidora-analytics)
+Estudo de caso **end-to-end de dados e BI** para uma distribuidora fictícia. O projeto parte do entendimento do negócio e evolui para modelagem, SQL, análise e dashboards.
 
-Em breve estarão disponíveis estudos de caso envolvendo:
+**Demonstra:** levantamento de requisitos, regras de negócio, pensamento analítico, documentação, SQL, modelagem e planejamento de uma solução de BI.
 
-- Dashboard Comercial
-- Banco de Dados MySQL
-- SQL Avançado
-- Business Intelligence
-- Análise de Estoque
-- Modelagem de Dados
-- Automação de Relatórios
+### [StockFlow](https://github.com/pedronascimento-data/stockflow)
+Sistema de estoque e vendas desenvolvido como projeto integrador, com banco relacional MySQL, oito entidades de negócio, chaves estrangeiras e operações de consulta e manutenção de dados.
 
----
+**Demonstra:** modelagem relacional, SQL, MySQL, regras de negócio e evolução planejada para aplicação Java.
 
-# 📚 Atualmente estudando
+### [Atividades Java — NetBeans](https://github.com/pedronascimento-data/atividades-java-netbeans)
+Conjunto de exercícios práticos de orientação a objetos aplicados a cenários de viagens, folha de pagamento e cálculo de impostos.
 
-- Power BI
-- DAX
-- SQL Avançado
-- Python
-- Modelagem de Dados
-- Git
+**Demonstra:** classes, abstração, herança, interfaces, polimorfismo, composição e coleções.
 
----
+### [Dashboard Comercial Power BI](https://github.com/pedronascimento-data/dashboard-comercial-powerbi)
+Projeto de dashboard comercial em construção, destinado a consolidar indicadores de vendas e desempenho em Power BI.
 
-# 🎯 Objetivo
+**Status:** em desenvolvimento.
 
-Conquistar oportunidades nas áreas de:
+## Atualmente aprofundando
 
-- Análise de Dados
-- Business Intelligence
-- Banco de Dados
-- Análise de Sistemas
+**Power BI e DAX • SQL avançado • Modelagem de Dados • Python para análise • Java e POO • Git/GitHub**
+
+## Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/pedro-sousa-nascimento/
+- **E-mail:** opedronascimento@outlook.com
 
 ---
 
-## 📫 Contato
-
-LinkedIn: https://www.linkedin.com/in/pedro-sousa-nascimento/)
-
-Email: opedronascimento@outlook.com
+> Este GitHub é atualizado continuamente com projetos de estudo e portfólio, priorizando documentação clara, contexto de negócio e aplicação prática das tecnologias.
