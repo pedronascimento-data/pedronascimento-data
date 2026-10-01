@@ -18,17 +18,17 @@ Meu foco principal está em **Análise de Dados e BI**, com base complementar em
 | Área | Tecnologias |
 |---|---|
 | **BI & Analytics** | Power BI, DAX, Power Query, Excel |
-| **Dados** | SQL, MySQL, modelagem relacional e dimensional |
-| **Programação** | Python, Java, orientação a objetos |
+| **Dados** | SQL, MySQL, modelagem relacional e dimensional, ETL |
+| **Programação** | Python, Pandas, NumPy, Java, orientação a objetos |
 | **Ferramentas** | Git, GitHub, MySQL Workbench, NetBeans |
 | **Documentação** | Markdown, requisitos, regras de negócio e documentação técnica |
 
 ## Projetos em destaque
 
 ### [Atlas Distribuidora Analytics](https://github.com/pedronascimento-data/atlas-distribuidora-analytics)
-Estudo de caso **end-to-end de Dados e BI** com arquitetura, modelagem relacional, banco MySQL, views analíticas, consultas com CTEs e window functions e modelo dimensional para Power BI.
+Case **end-to-end de Dados e BI** com geração de dados sintéticos em Python, validação de qualidade, banco operacional MySQL, SQL analítico, ETL, Data Warehouse dimensional e preparação para Power BI.
 
-**Demonstra:** requisitos, SQL, MySQL, modelagem relacional e dimensional, KPIs, documentação e visão de negócio.
+**Demonstra:** Python/Pandas, SQL, MySQL, ETL, qualidade de dados, modelagem relacional e dimensional, KPIs, documentação e visão de negócio.
 
 ### [StockFlow](https://github.com/pedronascimento-data/stockflow)
 Sistema de estoque e vendas desenvolvido como projeto integrador, com banco relacional MySQL, oito entidades de negócio, chaves estrangeiras e operações de consulta e manutenção de dados.
