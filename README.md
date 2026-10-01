@@ -26,9 +26,9 @@ Meu foco principal está em **Análise de Dados e BI**, com base complementar em
 ## Projetos em destaque
 
 ### [Atlas Distribuidora Analytics](https://github.com/pedronascimento-data/atlas-distribuidora-analytics)
-Estudo de caso **end-to-end de dados e BI** para uma distribuidora fictícia. O projeto parte do entendimento do negócio e evolui para modelagem, SQL, análise e dashboards.
+Estudo de caso **end-to-end de Dados e BI** com arquitetura, modelagem relacional, banco MySQL, views analíticas, consultas com CTEs e window functions e modelo dimensional para Power BI.
 
-**Demonstra:** levantamento de requisitos, regras de negócio, pensamento analítico, documentação, SQL, modelagem e planejamento de uma solução de BI.
+**Demonstra:** requisitos, SQL, MySQL, modelagem relacional e dimensional, KPIs, documentação e visão de negócio.
 
 ### [StockFlow](https://github.com/pedronascimento-data/stockflow)
 Sistema de estoque e vendas desenvolvido como projeto integrador, com banco relacional MySQL, oito entidades de negócio, chaves estrangeiras e operações de consulta e manutenção de dados.
