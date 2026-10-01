@@ -26,7 +26,7 @@ Meu foco principal está em **Análise de Dados e BI**, com base complementar em
 ## Projetos em destaque
 
 ### [Atlas Distribuidora Analytics](https://github.com/pedronascimento-data/atlas-distribuidora-analytics)
-Case **end-to-end de Dados e BI** com geração de dados sintéticos em Python, validação de qualidade, análise exploratória com Pandas/Matplotlib, banco operacional MySQL, SQL analítico, ETL, Data Warehouse dimensional e preparação para Power BI.
+Case **end-to-end de Dados e BI** com Python, qualidade de dados, EDA, MySQL, SQL analítico, ETL, Data Warehouse e um Power BI Project versionável em PBIP/TMDL/PBIR.
 
 **Demonstra:** Python/Pandas, EDA, visualização de dados, SQL, MySQL, ETL, qualidade de dados, modelagem relacional e dimensional, KPIs, documentação e visão de negócio.
 
