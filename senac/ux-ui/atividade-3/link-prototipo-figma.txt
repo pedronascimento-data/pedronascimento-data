@@ -1,0 +1,11 @@
+ATIVIDADE 3 — PROTÓTIPO FIGMA (ENTREGA CORRIGIDA)
+
+LINK DE APRESENTAÇÃO — COPIAR PARA O PROFESSOR:
+https://www.figma.com/proto/scvMEefy2Obl1fuYe3AlJg/SENAC-%E2%80%94-Atividade-03-%7C-Forno---Gest%C3%A3o-%E2%80%94-Prot%C3%B3tipo-Desktop?node-id=0-1&t=hTImwR95NYe9EFvn-1
+
+LINK PARA EDIÇÃO DO PROJETO:
+https://www.figma.com/design/scvMEefy2Obl1fuYe3AlJg
+
+O usuário confirmou funcionamento do link em janela anônima. Fluxos disponíveis: login → caixa; login → erro → login; caixa ↔ clientes; salvar → confirmação; sair → login.
+
+Projeto acadêmico; sem autenticação ou armazenamento real.
