@@ -1,4 +1,12 @@
 /**
+ * SCRIPT HISTÓRICO — NÃO EXECUTE NOVAMENTE!
+ * O formulário oficial da Atividade 1 já foi criado, publicado e atualizado.
+ * Executar criarFormularioAtividade1() outra vez criará OUTRO formulário e novas respostas simuladas.
+ * Para conferir o formulário já existente, use o link em link-pesquisa.txt.
+ * A atualização das duas imagens está documentada em atualizar_formulario_com_imagens.gs.
+ */
+
+/**
  * ATIVIDADE 1 — GOOGLE FORMS (PESQUISA SIMULADA)
  * 1. Abra https://script.google.com/ e crie um projeto.
  * 2. Cole este arquivo no editor e execute criarFormularioAtividade1.
